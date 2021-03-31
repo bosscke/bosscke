@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bosscke
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning html, css, javascript
+- 🌱 I’m currently learning html, css, sass, javascript
 - 💞️ I’m looking to collaborate on web development projects 
 - 📫 How to reach me bosscke@yahoo.com
 
